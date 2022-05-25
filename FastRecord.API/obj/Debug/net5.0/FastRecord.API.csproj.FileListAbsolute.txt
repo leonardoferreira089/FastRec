@@ -1,0 +1,7 @@
+C:\Users\Usuário\source\repos\FastRecord\FastRecord.API\obj\Debug\net5.0\FastRecord.API.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\FastRecord\FastRecord.API\obj\Debug\net5.0\FastRecord.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\FastRecord\FastRecord.API\obj\Debug\net5.0\FastRecord.API.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\FastRecord\FastRecord.API\obj\Debug\net5.0\FastRecord.API.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\FastRecord\FastRecord.API\obj\Debug\net5.0\FastRecord.API.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\FastRecord\FastRecord.API\obj\Debug\net5.0\FastRecord.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuário\source\repos\FastRecord\FastRecord.API\obj\Debug\net5.0\FastRecord.API.MvcApplicationPartsAssemblyInfo.cache
